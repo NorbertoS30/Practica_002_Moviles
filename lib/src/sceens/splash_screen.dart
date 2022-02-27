@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practica_02_conversor_temperatura/src/sceen/converter_screen.dart';
+import 'package:practica_02_conversor_temperatura/src/sceens/converter_screen.dart';
 import 'package:practica_02_conversor_temperatura/src/utils/colors_palette.dart';
 import 'package:splash_screen_view/SplashScreenView.dart';
 
